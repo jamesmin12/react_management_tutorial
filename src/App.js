@@ -16,9 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactdwdw
         </a>
-        <p>hello react project</p>
+        <p>hello react project22333</p>
       </header>
     </div>
   );
